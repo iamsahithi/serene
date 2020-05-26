@@ -1,0 +1,17 @@
+One of the most common forms of modulation used in wire and wireless system are QAM system.
+
+Quadrature amplitude modulation (QAM) has been widely used in adaptive modulation because
+of its efficiency in power and bandwidth.
+
+IN this paper a Simulink and MATLABcode-based simulation system is designed, and the details of the simulation is implemented using
+AWGN, Rayleigh and Rician channel. Simulation study helps us to visualize Eye-Diagram and
+scatterplot both at the transmitter and receiver. Performance analysis is done by comparing the
+simulated BER with theoretical plot using BER tool. The BER illustrates the relationship between
+power in the transmitted signal in terms of SNR and the resulting BER of the system.
+
+Motivation :
+A motivation for the use of quadrature amplitude modulation comes from the fact that a straight
+amplitude modulated signal, i.e. double sideband even with a suppressed carrier occupies twice
+the bandwidth of the modulating signal. This is very wasteful of the available frequency spectrum.
+QAM restores the balance by placing two independent double sideband suppressed carrier signals
+in the same spectrum as one ordinary double sideband suppressed carrier signal.
