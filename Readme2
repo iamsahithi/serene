@@ -1,0 +1,4 @@
+#Edge detection using opencv
+
+Edges are a sudden change in the brightness of the image.Edge detection is used for various image processing purposes. One of them is to sharpen the images.Sharpening of images is done to make the images more clear. Edge detection is used to enhance the images and image recognition becomes easier.The canny edge detection algorithm is  used to detect the edges in an image.
+OpenCV contains the function cv2.Canny() for edge detection
